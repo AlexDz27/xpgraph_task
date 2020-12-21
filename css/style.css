@@ -1,0 +1,9 @@
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.text {
+  background-color: rgba(233, 148, 148, 0.4);
+  transition: background-color .5s;
+}
+

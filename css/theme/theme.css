@@ -1,0 +1,13 @@
+.theme--light {
+  color: white;
+}
+.theme--light .text { /* Adding some background slight animation */
+  background-color: rgb(255, 219, 108);
+}
+
+.theme--dark {
+  color: black;
+}
+.theme--dark .text { /* Adding some background slight animation */
+  background-color: rgb(140, 157, 241);
+}
